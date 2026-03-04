@@ -1,0 +1,122 @@
+[
+    {
+        "id": "pr1",
+        "memberId": "m1",
+        "entries": [
+            {
+                "date": "2024-09-01",
+                "weight": 82.5,
+                "chest": 102,
+                "waist": 88,
+                "hips": 98,
+                "arms": 38,
+                "notes": "Starting point photo taken"
+            },
+            {
+                "date": "2024-10-01",
+                "weight": 81.0,
+                "chest": 103,
+                "waist": 86,
+                "hips": 97,
+                "arms": 39,
+                "notes": "Feeling stronger"
+            },
+            {
+                "date": "2024-11-01",
+                "weight": 80.0,
+                "chest": 104,
+                "waist": 85,
+                "hips": 96,
+                "arms": 39,
+                "notes": "Visible chest definition"
+            },
+            {
+                "date": "2024-12-01",
+                "weight": 79.2,
+                "chest": 104,
+                "waist": 84,
+                "hips": 96,
+                "arms": 40,
+                "notes": "PR on bench press: 100kg"
+            },
+            {
+                "date": "2025-01-01",
+                "weight": 78.8,
+                "chest": 105,
+                "waist": 83,
+                "hips": 95,
+                "arms": 40,
+                "notes": "New year, new goals"
+            },
+            {
+                "date": "2025-02-01",
+                "weight": 78.5,
+                "chest": 105,
+                "waist": 83,
+                "hips": 95,
+                "arms": 41,
+                "notes": "Arms growing nicely"
+            }
+        ]
+    },
+    {
+        "id": "pr2",
+        "memberId": "m2",
+        "entries": [
+            {
+                "date": "2024-09-01",
+                "weight": 68.0,
+                "chest": 90,
+                "waist": 75,
+                "hips": 99,
+                "arms": 30,
+                "notes": "Starting journey"
+            },
+            {
+                "date": "2024-10-01",
+                "weight": 66.5,
+                "chest": 89,
+                "waist": 73,
+                "hips": 97,
+                "arms": 29,
+                "notes": "Cardio getting easier"
+            },
+            {
+                "date": "2024-11-01",
+                "weight": 65.0,
+                "chest": 88,
+                "waist": 71,
+                "hips": 96,
+                "arms": 29,
+                "notes": "Clothes fitting better"
+            },
+            {
+                "date": "2024-12-01",
+                "weight": 63.5,
+                "chest": 87,
+                "waist": 70,
+                "hips": 95,
+                "arms": 28,
+                "notes": "Holiday eating, but maintained"
+            },
+            {
+                "date": "2025-01-01",
+                "weight": 62.5,
+                "chest": 87,
+                "waist": 69,
+                "hips": 94,
+                "arms": 28,
+                "notes": "Back on track"
+            },
+            {
+                "date": "2025-02-01",
+                "weight": 62.0,
+                "chest": 87,
+                "waist": 68,
+                "hips": 93,
+                "arms": 28,
+                "notes": "Almost at goal!"
+            }
+        ]
+    }
+]

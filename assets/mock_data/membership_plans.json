@@ -1,0 +1,72 @@
+[
+    {
+        "id": "plan_basic",
+        "name": "Basic Plan",
+        "tier": "Basic",
+        "monthlyPrice": 29.99,
+        "durationMonths": 1,
+        "color": "#4CAF50",
+        "includedServices": [
+            "Gym Access (6am-10pm)",
+            "Locker Room Access",
+            "Free WiFi",
+            "Access to Cardio Equipment",
+            "Access to Weight Room"
+        ],
+        "excludedServices": [
+            "Personal Training Sessions",
+            "Nutrition Consultation",
+            "Group Classes",
+            "Pool Access"
+        ],
+        "maxFreezes": 1,
+        "guestPasses": 0,
+        "active": true
+    },
+    {
+        "id": "plan_premium",
+        "name": "Premium Plan",
+        "tier": "Premium",
+        "monthlyPrice": 59.99,
+        "durationMonths": 1,
+        "color": "#2196F3",
+        "includedServices": [
+            "Gym Access (24/7)",
+            "Locker Room + Towel Service",
+            "Free WiFi",
+            "ALL Equipment Access",
+            "5 Group Classes/month",
+            "1 Nutrition Consultation/month",
+            "Pool & Sauna Access",
+            "App Premium Features"
+        ],
+        "excludedServices": [
+            "Personal Training Sessions"
+        ],
+        "maxFreezes": 2,
+        "guestPasses": 2,
+        "active": true
+    },
+    {
+        "id": "plan_pt",
+        "name": "Personal Training",
+        "tier": "Elite",
+        "monthlyPrice": 149.99,
+        "durationMonths": 1,
+        "color": "#FF9800",
+        "includedServices": [
+            "Gym Access (24/7)",
+            "All Premium Plan Benefits",
+            "8 Personal Training Sessions/month",
+            "Monthly Body Composition Analysis",
+            "Custom Nutrition Plan",
+            "Priority Equipment Booking",
+            "Recovery Room Access",
+            "Dedicated Locker"
+        ],
+        "excludedServices": [],
+        "maxFreezes": 3,
+        "guestPasses": 4,
+        "active": true
+    }
+]

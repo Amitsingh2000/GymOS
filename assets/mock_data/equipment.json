@@ -1,0 +1,127 @@
+[
+    {
+        "id": "eq1",
+        "name": "Commercial Treadmill Pro X",
+        "category": "Cardio",
+        "brand": "LifeFitness",
+        "condition": "Good",
+        "purchaseDate": "2022-05-10",
+        "lastMaintenanceDate": "2024-11-15",
+        "nextMaintenanceDue": "2025-02-15",
+        "location": "Cardio Zone A",
+        "downtimeLogs": [
+            {
+                "date": "2024-08-01",
+                "reason": "Belt replacement",
+                "duration": "2 days"
+            },
+            {
+                "date": "2024-03-15",
+                "reason": "Motor service",
+                "duration": "1 day"
+            }
+        ],
+        "imageUrl": "https://picsum.photos/seed/treadmill/400/300"
+    },
+    {
+        "id": "eq2",
+        "name": "Stationary Bike Pro 500",
+        "category": "Cardio",
+        "brand": "Technogym",
+        "condition": "Excellent",
+        "purchaseDate": "2023-01-20",
+        "lastMaintenanceDate": "2024-12-01",
+        "nextMaintenanceDue": "2025-03-01",
+        "location": "Cardio Zone B",
+        "downtimeLogs": [],
+        "imageUrl": "https://picsum.photos/seed/bike/400/300"
+    },
+    {
+        "id": "eq3",
+        "name": "Olympic Barbell Set",
+        "category": "Free Weights",
+        "brand": "Rogue",
+        "condition": "Good",
+        "purchaseDate": "2021-08-15",
+        "lastMaintenanceDate": "2024-10-10",
+        "nextMaintenanceDue": "2025-04-10",
+        "location": "Free Weight Zone",
+        "downtimeLogs": [
+            {
+                "date": "2024-01-20",
+                "reason": "Collar repair",
+                "duration": "1 day"
+            }
+        ],
+        "imageUrl": "https://picsum.photos/seed/barbell/400/300"
+    },
+    {
+        "id": "eq4",
+        "name": "Dumbbell Rack (5-50 lbs)",
+        "category": "Free Weights",
+        "brand": "Bowflex",
+        "condition": "Excellent",
+        "purchaseDate": "2022-11-05",
+        "lastMaintenanceDate": "2024-12-10",
+        "nextMaintenanceDue": "2025-06-10",
+        "location": "Free Weight Zone",
+        "downtimeLogs": [],
+        "imageUrl": "https://picsum.photos/seed/dumbbells/400/300"
+    },
+    {
+        "id": "eq5",
+        "name": "Power Rack with Pull-Up Bar",
+        "category": "Strength",
+        "brand": "Titan Fitness",
+        "condition": "Fair",
+        "purchaseDate": "2020-06-01",
+        "lastMaintenanceDate": "2024-09-20",
+        "nextMaintenanceDue": "2025-03-20",
+        "location": "Strength Zone",
+        "downtimeLogs": [
+            {
+                "date": "2024-07-10",
+                "reason": "Cable pulley replacement",
+                "duration": "3 days"
+            },
+            {
+                "date": "2023-12-01",
+                "reason": "J-hook repair",
+                "duration": "1 day"
+            }
+        ],
+        "imageUrl": "https://picsum.photos/seed/rack/400/300"
+    },
+    {
+        "id": "eq6",
+        "name": "Functional Cable Machine",
+        "category": "Machines",
+        "brand": "Life Fitness",
+        "condition": "Good",
+        "purchaseDate": "2022-03-15",
+        "lastMaintenanceDate": "2024-11-01",
+        "nextMaintenanceDue": "2025-05-01",
+        "location": "Machine Zone",
+        "downtimeLogs": [
+            {
+                "date": "2024-09-05",
+                "reason": "Weight stack service",
+                "duration": "2 days"
+            }
+        ],
+        "imageUrl": "https://picsum.photos/seed/cable/400/300"
+    },
+    {
+        "id": "eq7",
+        "name": "Leg Press Machine",
+        "category": "Machines",
+        "brand": "Hammer Strength",
+        "condition": "Excellent",
+        "purchaseDate": "2023-04-10",
+        "lastMaintenanceDate": "2024-12-15",
+        "nextMaintenanceDue": "2025-06-15",
+        "location": "Machine Zone",
+        "downtimeLogs": [],
+        "imageUrl": "https://picsum.photos/seed/legpress/400/300"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "id": "t1",
+        "name": "Jake Morrison",
+        "role": "Head Trainer",
+        "specializations": [
+            "Strength Training",
+            "Powerlifting",
+            "Sports Performance"
+        ],
+        "commissionPercentage": 20,
+        "monthlySalary": 3500,
+        "assignedMemberIds": [
+            "m1",
+            "m3"
+        ],
+        "certifications": [
+            "NASM-CPT",
+            "CSCS",
+            "FMS"
+        ],
+        "joinDate": "2021-03-01",
+        "avatarUrl": "https://i.pravatar.cc/150?img=11",
+        "email": "jake.m@gymos.com",
+        "phone": "+1-555-0201",
+        "rating": 4.8
+    },
+    {
+        "id": "t2",
+        "name": "Lisa Park",
+        "role": "Fitness Coach",
+        "specializations": [
+            "Weight Loss",
+            "HIIT",
+            "Yoga"
+        ],
+        "commissionPercentage": 15,
+        "monthlySalary": 2800,
+        "assignedMemberIds": [
+            "m2",
+            "m4"
+        ],
+        "certifications": [
+            "ACE-CPT",
+            "RYT-200"
+        ],
+        "joinDate": "2022-06-15",
+        "avatarUrl": "https://i.pravatar.cc/150?img=12",
+        "email": "lisa.p@gymos.com",
+        "phone": "+1-555-0202",
+        "rating": 4.9
+    },
+    {
+        "id": "t3",
+        "name": "Carlos Fuentes",
+        "role": "Nutrition Coach",
+        "specializations": [
+            "Nutrition Planning",
+            "Body Composition",
+            "Endurance"
+        ],
+        "commissionPercentage": 18,
+        "monthlySalary": 3000,
+        "assignedMemberIds": [
+            "m6"
+        ],
+        "certifications": [
+            "ISSA-SNS",
+            "NASM-CNC"
+        ],
+        "joinDate": "2023-01-10",
+        "avatarUrl": "https://i.pravatar.cc/150?img=13",
+        "email": "carlos.f@gymos.com",
+        "phone": "+1-555-0203",
+        "rating": 4.7
+    }
+]

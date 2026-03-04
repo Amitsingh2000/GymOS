@@ -1,0 +1,146 @@
+[
+    {
+        "id": "wp1",
+        "memberId": "m1",
+        "name": "Push/Pull/Legs Split",
+        "status": "approved",
+        "submittedDate": "2025-01-10",
+        "reviewedDate": "2025-01-12",
+        "trainerId": "t1",
+        "trainerFeedback": "Great plan! Make sure to warm up properly before heavy compound lifts.",
+        "days": [
+            {
+                "day": "Monday",
+                "focus": "Push",
+                "exercises": [
+                    {
+                        "exerciseId": "e1",
+                        "sets": 4,
+                        "reps": "8-10",
+                        "rest": 90
+                    },
+                    {
+                        "exerciseId": "e5",
+                        "sets": 3,
+                        "reps": "10-12",
+                        "rest": 60
+                    }
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "focus": "Pull",
+                "exercises": [
+                    {
+                        "exerciseId": "e2",
+                        "sets": 3,
+                        "reps": "6-8",
+                        "rest": 120
+                    },
+                    {
+                        "exerciseId": "e8",
+                        "sets": 3,
+                        "reps": "10-12",
+                        "rest": 60
+                    }
+                ]
+            },
+            {
+                "day": "Friday",
+                "focus": "Legs",
+                "exercises": [
+                    {
+                        "exerciseId": "e3",
+                        "sets": 4,
+                        "reps": "5-8",
+                        "rest": 180
+                    },
+                    {
+                        "exerciseId": "e6",
+                        "sets": 3,
+                        "reps": "10-12",
+                        "rest": 90
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "wp2",
+        "memberId": "m2",
+        "name": "Full Body Fat Burn",
+        "status": "pending",
+        "submittedDate": "2025-02-01",
+        "reviewedDate": null,
+        "trainerId": null,
+        "trainerFeedback": null,
+        "days": [
+            {
+                "day": "Monday",
+                "focus": "Full Body",
+                "exercises": [
+                    {
+                        "exerciseId": "e4",
+                        "sets": 1,
+                        "reps": "30 min",
+                        "rest": 0
+                    },
+                    {
+                        "exerciseId": "e7",
+                        "sets": 3,
+                        "reps": "45 sec",
+                        "rest": 30
+                    }
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "focus": "Full Body",
+                "exercises": [
+                    {
+                        "exerciseId": "e4",
+                        "sets": 1,
+                        "reps": "25 min",
+                        "rest": 0
+                    },
+                    {
+                        "exerciseId": "e5",
+                        "sets": 3,
+                        "reps": "12-15",
+                        "rest": 60
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "wp3",
+        "memberId": "m4",
+        "name": "Tone & Sculpt Program",
+        "status": "rejected",
+        "submittedDate": "2025-01-20",
+        "reviewedDate": "2025-01-22",
+        "trainerId": "t2",
+        "trainerFeedback": "Plan needs more rest days. Please revise and resubmit with at least 2 rest days per week.",
+        "days": [
+            {
+                "day": "Monday",
+                "focus": "Upper Body",
+                "exercises": [
+                    {
+                        "exerciseId": "e1",
+                        "sets": 3,
+                        "reps": "12-15",
+                        "rest": 60
+                    },
+                    {
+                        "exerciseId": "e5",
+                        "sets": 3,
+                        "reps": "12-15",
+                        "rest": 60
+                    }
+                ]
+            }
+        ]
+    }
+]

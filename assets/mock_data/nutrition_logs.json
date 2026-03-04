@@ -1,0 +1,115 @@
+[
+    {
+        "id": "nl1",
+        "memberId": "m1",
+        "date": "2025-03-05",
+        "totalCalories": 2450,
+        "totalProtein": 185,
+        "totalCarbs": 280,
+        "totalFats": 72,
+        "entries": [
+            {
+                "food": "Scrambled Eggs (3)",
+                "calories": 210,
+                "protein": 18,
+                "carbs": 2,
+                "fats": 15
+            },
+            {
+                "food": "Oatmeal with Banana",
+                "calories": 320,
+                "protein": 8,
+                "carbs": 65,
+                "fats": 5
+            },
+            {
+                "food": "Chicken Breast (200g)",
+                "calories": 330,
+                "protein": 62,
+                "carbs": 0,
+                "fats": 7
+            },
+            {
+                "food": "Brown Rice (150g)",
+                "calories": 165,
+                "protein": 3,
+                "carbs": 35,
+                "fats": 1
+            },
+            {
+                "food": "Whey Protein Shake",
+                "calories": 150,
+                "protein": 30,
+                "carbs": 8,
+                "fats": 2
+            },
+            {
+                "food": "Salmon (200g) + Quinoa",
+                "calories": 480,
+                "protein": 42,
+                "carbs": 38,
+                "fats": 18
+            },
+            {
+                "food": "Greek Yogurt + Almonds",
+                "calories": 220,
+                "protein": 15,
+                "carbs": 12,
+                "fats": 12
+            },
+            {
+                "food": "Pre-workout Snack (Banana + PB)",
+                "calories": 295,
+                "protein": 7,
+                "carbs": 40,
+                "fats": 12
+            }
+        ]
+    },
+    {
+        "id": "nl2",
+        "memberId": "m2",
+        "date": "2025-03-05",
+        "totalCalories": 1380,
+        "totalProtein": 105,
+        "totalCarbs": 140,
+        "totalFats": 42,
+        "entries": [
+            {
+                "food": "Green Smoothie",
+                "calories": 180,
+                "protein": 5,
+                "carbs": 35,
+                "fats": 3
+            },
+            {
+                "food": "Grilled Chicken Salad",
+                "calories": 350,
+                "protein": 40,
+                "carbs": 15,
+                "fats": 12
+            },
+            {
+                "food": "Protein Bar",
+                "calories": 220,
+                "protein": 20,
+                "carbs": 25,
+                "fats": 7
+            },
+            {
+                "food": "Tuna Wrap (light)",
+                "calories": 420,
+                "protein": 35,
+                "carbs": 48,
+                "fats": 12
+            },
+            {
+                "food": "Apple + Almond Butter",
+                "calories": 210,
+                "protein": 5,
+                "carbs": 17,
+                "fats": 8
+            }
+        ]
+    }
+]

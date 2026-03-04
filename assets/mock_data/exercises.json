@@ -1,0 +1,184 @@
+[
+    {
+        "id": "e1",
+        "name": "Barbell Bench Press",
+        "description": "A compound chest exercise performed on a flat bench using a barbell. Targets pectorals, shoulders, and triceps.",
+        "muscleGroups": [
+            "Chest",
+            "Shoulders",
+            "Triceps"
+        ],
+        "difficulty": "Intermediate",
+        "equipmentId": "eq3",
+        "equipmentName": "Barbell",
+        "videoId": "rT7DgCr-3pg",
+        "suggestedSets": 4,
+        "suggestedReps": "8-12",
+        "restTime": 90,
+        "calories": 45,
+        "tags": [
+            "Strength",
+            "Compound",
+            "Upper Body"
+        ]
+    },
+    {
+        "id": "e2",
+        "name": "Pull-Up",
+        "description": "A classic upper body pulling exercise that targets the latissimus dorsi, biceps, and core.",
+        "muscleGroups": [
+            "Back",
+            "Biceps",
+            "Core"
+        ],
+        "difficulty": "Intermediate",
+        "equipmentId": "eq5",
+        "equipmentName": "Pull-Up Bar",
+        "videoId": "eGo4IYlbE5g",
+        "suggestedSets": 3,
+        "suggestedReps": "6-10",
+        "restTime": 120,
+        "calories": 40,
+        "tags": [
+            "Strength",
+            "Bodyweight",
+            "Upper Body"
+        ]
+    },
+    {
+        "id": "e3",
+        "name": "Barbell Squat",
+        "description": "The king of all leg exercises. Targets quadriceps, hamstrings, glutes, and core.",
+        "muscleGroups": [
+            "Quadriceps",
+            "Hamstrings",
+            "Glutes",
+            "Core"
+        ],
+        "difficulty": "Advanced",
+        "equipmentId": "eq3",
+        "equipmentName": "Barbell",
+        "videoId": "1oed-UmAxFs",
+        "suggestedSets": 4,
+        "suggestedReps": "5-8",
+        "restTime": 180,
+        "calories": 65,
+        "tags": [
+            "Strength",
+            "Compound",
+            "Lower Body"
+        ]
+    },
+    {
+        "id": "e4",
+        "name": "Treadmill Running",
+        "description": "Cardiovascular exercise on a treadmill. Improves heart health, burns calories, and builds endurance.",
+        "muscleGroups": [
+            "Cardio",
+            "Legs"
+        ],
+        "difficulty": "Beginner",
+        "equipmentId": "eq1",
+        "equipmentName": "Treadmill",
+        "videoId": "kZDvg92tTMc",
+        "suggestedSets": 1,
+        "suggestedReps": "20-30 min",
+        "restTime": 0,
+        "calories": 250,
+        "tags": [
+            "Cardio",
+            "Endurance",
+            "Fat Loss"
+        ]
+    },
+    {
+        "id": "e5",
+        "name": "Dumbbell Shoulder Press",
+        "description": "An overhead pressing movement using dumbbells that targets deltoids, trapezius, and triceps.",
+        "muscleGroups": [
+            "Shoulders",
+            "Triceps",
+            "Traps"
+        ],
+        "difficulty": "Beginner",
+        "equipmentId": "eq4",
+        "equipmentName": "Dumbbells",
+        "videoId": "qEwKCR5JCog",
+        "suggestedSets": 3,
+        "suggestedReps": "10-15",
+        "restTime": 60,
+        "calories": 35,
+        "tags": [
+            "Strength",
+            "Upper Body"
+        ]
+    },
+    {
+        "id": "e6",
+        "name": "Romanian Deadlift",
+        "description": "A hip hinge movement excellent for targeting hamstrings and glutes while maintaining a neutral spine.",
+        "muscleGroups": [
+            "Hamstrings",
+            "Glutes",
+            "Lower Back"
+        ],
+        "difficulty": "Intermediate",
+        "equipmentId": "eq3",
+        "equipmentName": "Barbell",
+        "videoId": "JCXUYuzwNrM",
+        "suggestedSets": 3,
+        "suggestedReps": "10-12",
+        "restTime": 90,
+        "calories": 55,
+        "tags": [
+            "Strength",
+            "Compound",
+            "Lower Body"
+        ]
+    },
+    {
+        "id": "e7",
+        "name": "Plank",
+        "description": "An isometric core exercise that builds stability and strength throughout the entire trunk.",
+        "muscleGroups": [
+            "Core",
+            "Shoulders",
+            "Glutes"
+        ],
+        "difficulty": "Beginner",
+        "equipmentId": null,
+        "equipmentName": "No Equipment",
+        "videoId": "B296mZDhrP4",
+        "suggestedSets": 3,
+        "suggestedReps": "30-60 sec",
+        "restTime": 60,
+        "calories": 20,
+        "tags": [
+            "Core",
+            "Bodyweight",
+            "Stability"
+        ]
+    },
+    {
+        "id": "e8",
+        "name": "Cable Lat Pulldown",
+        "description": "Machine-based pulling exercise targeting the latissimus dorsi for width and upper back development.",
+        "muscleGroups": [
+            "Back",
+            "Biceps"
+        ],
+        "difficulty": "Beginner",
+        "equipmentId": "eq6",
+        "equipmentName": "Cable Machine",
+        "videoId": "CAwf7n6Luuc",
+        "suggestedSets": 3,
+        "suggestedReps": "10-15",
+        "restTime": 60,
+        "calories": 35,
+        "tags": [
+            "Strength",
+            "Upper Body",
+            "Back"
+        ]
+    }
+]
